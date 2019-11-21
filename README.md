@@ -1,2 +1,0 @@
-# HugoTest
-test
